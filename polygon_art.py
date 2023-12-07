@@ -2,6 +2,9 @@ import turtle
 import random
 
 class Drawer:
+    """
+    This class is used to draw a single polygon.
+    """
     def __init__(self):
         turtle.speed(0)
         turtle.bgcolor('black')
