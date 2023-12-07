@@ -3,3 +3,9 @@
 - Fork, then, clone this repo
 - Read the instructions given in the course's Google Classroom and start coding
 - Once you are done, push your final code to your Github repo and modify this README to report on the work you have done
+
+
+# What I have done
+1. I have implemented a class "Drawer" which focuses on drawing each individual polygon. It has two methods as follow:
+    1. Draw a simple polygon
+    2. Draw a complex polygon
